@@ -10,9 +10,7 @@ namespace Task2
     {
         public T Create()
         {
-            // Remove NotImplementedException and write code here
-            // to return instance of the generic type
-            throw new NotImplementedException();
+            return default(T);
         }
     }
 }
