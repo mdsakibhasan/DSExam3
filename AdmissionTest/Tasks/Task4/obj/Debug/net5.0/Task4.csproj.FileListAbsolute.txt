@@ -1,0 +1,16 @@
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.exe
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.deps.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.runtimeconfig.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.runtimeconfig.dev.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\ref\Task4.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\bin\Debug\net5.0\Task4.pdb
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.csproj.AssemblyReference.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.AssemblyInfoInputs.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.AssemblyInfo.cs
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.csproj.CoreCompileInputs.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\ref\Task4.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.pdb
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task4\obj\Debug\net5.0\Task4.genruntimeconfig.cache

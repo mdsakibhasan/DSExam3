@@ -1,0 +1,16 @@
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.exe
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.deps.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\ref\Task2.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\bin\Debug\net5.0\Task2.pdb
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\ref\Task2.dll
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.pdb
+H:\EXAM3\DSExam3\AdmissionTest\Tasks\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache
